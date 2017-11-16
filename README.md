@@ -9,8 +9,11 @@ Multi user support。
 Multilevel management。
 多层级管理。
 
-Read/Write Permission
+Read/Write Permission。
 读写权限控制。
+
+Support Linux/Windows。
+IE9+;Firefox;Chrome
 
 
 
