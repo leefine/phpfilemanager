@@ -12,8 +12,9 @@ Multilevel management。
 Read/Write Permission。
 读写权限控制。
 
-Support Linux/Windows。
-IE9+;Firefox;Chrome
+Support Linux&Windows.IE9+;Firefox;Chrome.Mobile&PC.
+
+
 
 
 
