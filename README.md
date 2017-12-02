@@ -1,4 +1,3 @@
-# phpfilemanager
 php online file manager。
 PHP在线文件管理器。
 
