@@ -6,11 +6,11 @@ Multi user support。
 
 <img src="https://github.com/leefine/phpfilemanager/blob/master/Readme1.PNG?raw=true">
 
-Multilevel management。
-多层级管理。
+Multi level permission management。
+多层级权限管理。
 
-Read/Write Permission。
-读写权限控制。
+Read/Write/Delete Permission。
+读写删权限控制。
 
 <img src="https://github.com/leefine/phpfilemanager/blob/master/Readme2.PNG?raw=true">
 
@@ -21,4 +21,4 @@ Support Linux&Windows.IE9+;Firefox;Chrome.Mobile&PC.
 
 
 
-在线演示 http://leefine.cn  只读访问账号 Vistor  密码  Vistor
+在线演示 http://leefine.com  只读访问账号 Vistor  密码  Vistor
